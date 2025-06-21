@@ -14,18 +14,12 @@ A simple desktop Weather App built with Python and PyQt5. Enter a city name to g
 
 ## How to Use
 
-1. Activate virtual environment
-```
-.\venv\Scripts\activate
-```
-
-
-2. Install dependencies
+1. Install dependencies
 ```
 pip install PyQt5 requests
 ```
 
-3. Run the app
+2. Run the app
 ```
 python weather.py
 ```
